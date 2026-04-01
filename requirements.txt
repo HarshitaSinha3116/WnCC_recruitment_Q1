@@ -1,1 +1,5 @@
+# Compiler
+g++ >= 7.0 (C++17 support required)
 
+# Build tool
+make >= 4.0
